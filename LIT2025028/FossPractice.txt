@@ -1,0 +1,3 @@
+This is a basic practice to understand pull request better.
+HacktoberFest is held yearly in October.
+It's all about GitHub and Opensource technology.
