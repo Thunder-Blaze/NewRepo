@@ -1,0 +1,41 @@
+p {
+    color: rgb(159, 60, 126);
+    font-size: 20px;
+    font: italic;
+}
+
+table {
+    color: brown;
+    font-size: 12px;
+    text-align: center;
+}
+
+.highlight {
+    background: yellow;
+}
+
+.button {
+    padding: 10px;
+}
+
+input[type="text"] {
+    border: 3px solid gray;
+}
+
+div p {
+    color: aqua;
+    font-size: 40px;
+    background-color: black;
+}
+
+/*
+*{
+    color: aqua;
+} 
+ this does for all!! */
+body{
+    background-image: url("https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/001.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
