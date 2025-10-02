@@ -8,6 +8,4 @@
 6. Push your branch to github
 7. Create a PR with that branch with proper structure
 
-## Cloning
-'''bash
-git clone <Fork_Url>
+
