@@ -1,0 +1,7 @@
+I am learning about basics of git and github.
+I am trying to create a PR.
+PR stands for Pull Request.
+A Pull Request (PR) is a way to propose changes from your forked repository back to the original project on GitHub.
+ Once you create a new branch, make changes, and push them to your fork, you can open a PR to request the maintainer of the original repo to review and merge your updates. 
+It acts like a formal request saying: “Here are the changes I made—please check and, if they look good, add them to your main codebase.”
+ In a PR, you usually include a clear title and description explaining what you changed and why, so the reviewer can easily understand your contribution.
