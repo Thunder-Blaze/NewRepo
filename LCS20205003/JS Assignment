@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  
+    <title>Document</title>
+    <script src="script.js"></script>
+</head>
+<h1 class="head" id="head">Hello!</h1>
+<body class="body" id="head">
+   
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique sunt doloribus, suscipit nemo aut magnam soluta exercitationem aliquid aliquam, labore consequuntur eveniet quo inventore aperiam nulla eos laboriosam enim deleniti!</p>
+<h2>This</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet perferendis repudiandae debitis sit id maiores, sint quisquam similique, saepe facilis modi deserunt nulla nam nesciunt dicta. Eveniet aliquam illo quae!</p>
+<button onclick="changecolor()">Change Colour</button>
+<script>
+function changecolor(){
+ document.body.style.backgroundColor ="aqua";
+}
+</script>
+
+
+</body>
+</html>
